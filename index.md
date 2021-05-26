@@ -1,16 +1,18 @@
 
-PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and LIP6 [MoVe](https://www.lip6.fr/MoVe) team.
+PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://www.lip6.fr), [MoVe](https://www.lip6.fr/MoVe) team.
+Contact : akheireddine[at]lrde.epita.fr
 
-## Information
-**BMC-tool** git repository [here](https://gitlab.lrde.epita.fr/akheireddine/bmctool).
+# Information
+**BMC-tool** git repository: [here](https://gitlab.lrde.epita.fr/akheireddine/bmctool).
+**Test replication** 
 
-## Teaching
+# Teaching
 
  * Programamtion C L1.
- * Théorie des langages rationnels.
+ * Théorie des langages rationnels L2.
 
+# Test replication for CP21
 
-And code highlighting:
 
 ```js
 var foo = 'bar';
@@ -20,8 +22,5 @@ function baz(s) {
 }
 ```
 
-Or inline code like `var foo = 'bar';`.
 
-Or an image of bears
 
-![bears](http://placebear.com/200/200)
