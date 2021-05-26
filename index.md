@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/anissakh/akheireddine.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and LIP6 [MoVe](https://www.lip6.fr/MoVe) team.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Information
+**BMC-tool** git repository [here](https://gitlab.lrde.epita.fr/akheireddine/bmctool).
 
-### Markdown
+## Teaching
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ * Programamtion C L1.
+ * Théorie des langages rationnels.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+And code highlighting:
 
-- Bulleted
-- List
+```js
+var foo = 'bar';
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+function baz(s) {
+   return foo + ':' + s;
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Or inline code like `var foo = 'bar';`.
 
-### Jekyll Themes
+Or an image of bears
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anissakh/akheireddine.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![bears](http://placebear.com/200/200)
