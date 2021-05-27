@@ -20,6 +20,7 @@ git clone https://gitlab.lrde.epita.fr/akheireddine/bmctool
 ```
 sh compile_analyzer.sh
 ```
+
 ### PLOT class classification for one instance
 >
 ```
