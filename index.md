@@ -9,7 +9,8 @@ Contact : akheireddine[at]lrde.epita.fr
 # Test replication for CP21
 
 ## Cloning BMC-tool repository 
-> ```
+>
+```
 git clone https://gitlab.lrde.epita.fr/akheireddine/bmctool
 ```
 
