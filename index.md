@@ -1,26 +1,67 @@
 
 PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://www.lip6.fr), [MoVe](https://www.lip6.fr/MoVe) team.
+
 Contact : akheireddine[at]lrde.epita.fr
 
 # Information
 **BMC-tool** git repository: [here](https://gitlab.lrde.epita.fr/akheireddine/bmctool).
-**Test replication** 
+
+# Test replication for CP21
+
+## Cloning BMC-tool repository 
+> ```bash
+git clone https://gitlab.lrde.epita.fr/akheireddine/bmctool
+```
+
+## Analysis mode 
+### Compiling
+```bash
+sh compile_analyzer.sh
+```
+### PLOT class classification for one instance
+>```bash
+sh plot_class_classification.sh <filename.dimacs> <output_points.csv>
+```
+
+### PLOT class classification for a set of instances
+>```bash
+sh plot_class_classification_avg.sh <dirname> <output_points.csv>
+```
+
+* PLOT Pareto front 
+input_points.csv: is computed with the above script file (plot_class_classification or plot_class_classification_avg)
+
+```bash
+sh plot_pareto_front <input_points.csv> <output_solution.csv>
+```
+
+## Experimental mode
+### Compiling
+>```bash
+sh compile_experimentation.sh
+```
+
+### Execution
+> Run solving with a time limit of 6000 seconds and 12Go memory limit using one of the proposed strategy: 
+  * 0: state-of-the art SAT procedure
+  * 1: Linear programming heuristic
+  * 2: Structural BMC information
+
+>```bash
+./bmctool -tool=p -c=1 -s=maple -ns=1 -sat-heuristic=<value:0,1,2> -t=6000 -memlimit=12000 <filename.dimacs>
+```
+
+
+## Conversion of SMV file to DIMACS format
+>Must specify the bound value k :
+```bash
+./bmctool -tool=c -k=<bound> -conv=1 <file.smv>
+```
+
+
 
 # Teaching
 
  * Programamtion C L1.
  * Théorie des langages rationnels L2.
-
-# Test replication for CP21
-
-
-```js
-var foo = 'bar';
-
-function baz(s) {
-   return foo + ':' + s;
-}
-```
-
-
 
