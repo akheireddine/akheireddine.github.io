@@ -20,12 +20,14 @@ git clone https://gitlab.lrde.epita.fr/akheireddine/bmctool
 sh compile_analyzer.sh
 ```
 ### PLOT class classification for one instance
->```
+>
+```
 sh plot_class_classification.sh <filename.dimacs> <output_points.csv>
 ```
 
 ### PLOT class classification for a set of instances
->```
+>
+```
 sh plot_class_classification_avg.sh <dirname> <output_points.csv>
 ```
 
@@ -38,7 +40,8 @@ sh plot_pareto_front <input_points.csv> <output_solution.csv>
 
 ## Experimental mode
 ### Compiling
->```
+>
+```
 sh compile_experimentation.sh
 ```
 
@@ -48,7 +51,8 @@ sh compile_experimentation.sh
   * 1: Linear programming heuristic
   * 2: Structural BMC information
 
->```
+>
+```
 ./bmctool -tool=p -c=1 -s=maple -ns=1 -sat-heuristic=<value:0,1,2> -t=6000 -memlimit=12000 <filename.dimacs>
 ```
 
