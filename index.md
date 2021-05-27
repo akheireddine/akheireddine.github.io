@@ -18,14 +18,16 @@ git clone https://gitlab.lrde.epita.fr/akheireddine/bmctool
 ### Compile
 >
 ```
-git checkout ak/log && cd painless && git checkout ak/log && cd ..
-make all
+sh compile_log_mode.sh
 ```
 
 ### PLOT class classification for one instance
+
+Figures will be saved in 'res_log' directory
+
 >
 ```
-sh plot_class_classification.sh <filename.dimacs> <output_points.csv>
+sh plot_class_classification.sh <filename.dimacs> <output_points.csv> [time-limit] [max-memory]
 ```
 
 ### PLOT class classification for a set of instances
@@ -45,8 +47,7 @@ sh plot_pareto_front <input_points.csv> <output_solution.csv>
 ### Compile
 >
 ```
-cd painless && git checkout ak/BMCHeuristics && cd .. 
-make all
+sh compile_exp_mode.sh
 ```
 
 ### Execution
