@@ -8,17 +8,18 @@ Contact : akheireddine[at]lrde.epita.fr
 
 # Test replication for CP21
 
-## Cloning BMC-tool repository 
+## Clone BMC-tool repository 
 >
 ```
 git clone https://gitlab.lrde.epita.fr/akheireddine/bmctool
 ```
 
 ## Analysis mode 
-### Compiling
+### Compile
 >
 ```
-sh compile_analyzer.sh
+git checkout ak/log && cd painless && git checkout ak/log && cd ..
+make all
 ```
 
 ### PLOT class classification for one instance
@@ -41,10 +42,11 @@ sh plot_pareto_front <input_points.csv> <output_solution.csv>
 ```
 
 ## Experimental mode
-### Compiling
+### Compile
 >
 ```
-sh compile_experimentation.sh
+cd painless && git checkout ak/BMCHeuristics && cd .. 
+make all
 ```
 
 ### Execution
@@ -55,7 +57,7 @@ Run solving with a time limit of 6000 seconds and 12Go memory limit using one of
 
 >
 ```
-./bmctool -tool=p -c=1 -s=maple -ns=1 -sat-heuristic=<value:0,1,2> -t=6000 -memlimit=12000 <filename.dimacs>
+./bmctool -tool=p -c=1 -s=maple -ns=1 -sat-heuristic=<value:0,1,2> -t=6000 -max-memory=12000 <filename.dimacs>
 ```
 
 
@@ -63,7 +65,7 @@ Run solving with a time limit of 6000 seconds and 12Go memory limit using one of
 Must specify the bound value k :
 >
 ```
-./bmctool -tool=c -k=<bound> -conv=1 <file.smv>
+./bmctool -tool=c -k=<bound> -conv=1 <filename.smv>
 ```
 
 
