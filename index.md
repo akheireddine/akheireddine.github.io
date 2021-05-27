@@ -27,13 +27,13 @@ Figures will be saved in 'res_log' directory
 
 >
 ```
-sh plot_class_classification.sh <filename.dimacs> <output_points.csv> [time-limit] [max-memory]
+sh plot_class_classification.sh <filename.dimacs> [time-limit] [max-memory]
 ```
 
 ### PLOT class classification for a set of instances
 >
 ```
-sh plot_class_classification_avg.sh <dirname> <output_points.csv>
+sh plot_class_classification.sh <dirname> [time-limit] [max-memory]
 ```
 
 ### PLOT Pareto front 
