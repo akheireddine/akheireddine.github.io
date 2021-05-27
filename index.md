@@ -16,6 +16,7 @@ git clone https://gitlab.lrde.epita.fr/akheireddine/bmctool
 
 ## Analysis mode 
 ### Compiling
+>
 ```
 sh compile_analyzer.sh
 ```
@@ -31,9 +32,9 @@ sh plot_class_classification.sh <filename.dimacs> <output_points.csv>
 sh plot_class_classification_avg.sh <dirname> <output_points.csv>
 ```
 
-* PLOT Pareto front 
+### PLOT Pareto front 
 input_points.csv: is computed with the above script file (plot_class_classification or plot_class_classification_avg)
-
+>
 ```
 sh plot_pareto_front <input_points.csv> <output_solution.csv>
 ```
@@ -46,7 +47,7 @@ sh compile_experimentation.sh
 ```
 
 ### Execution
-> Run solving with a time limit of 6000 seconds and 12Go memory limit using one of the proposed strategy: 
+Run solving with a time limit of 6000 seconds and 12Go memory limit using one of the proposed strategy: 
   * 0: state-of-the art SAT procedure
   * 1: Linear programming heuristic
   * 2: Structural BMC information
@@ -58,7 +59,8 @@ sh compile_experimentation.sh
 
 
 ## Conversion of SMV file to DIMACS format
->Must specify the bound value k :
+Must specify the bound value k :
+>
 ```
 ./bmctool -tool=c -k=<bound> -conv=1 <file.smv>
 ```
