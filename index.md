@@ -8,7 +8,7 @@ Contact : akheireddine[at]lrde.epita.fr
 
 # Test replication for CP21
 
-Description link [here](https://akheireddine.github.io/cp21.html)
+Description link [here](https://akheireddine.github.io/cp21/cp21.html)
 
 
 # Teaching
