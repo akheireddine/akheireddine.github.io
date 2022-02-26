@@ -3,12 +3,18 @@ PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://ww
 
 Contact : akheireddine[at]lrde.epita.fr
 
-# Information
-**BMC-tool** git repository: [here](https://gitlab.lrde.epita.fr/akheireddine/bmctool).
 
-# Test replication for CP21
+# BSaLTic
 
-Description link [here](https://akheireddine.github.io/cp21/cp21.html)
+ * Git repository:  [link](...)
+ * Benchmark:       [link](...)
+ * Virtual Machine: [link](...) 
+
+
+# Papers
+##  CP21
+- Toward better heuristics for Solving SAT-based BMC: [link](https://www.lrde.epita.fr/wiki/Publications/kheireddine.21.cp)
+- Description of the setup: [BMCTool](https://akheireddine.github.io/cp21/cp21.html)
 
 
 # Teaching
