@@ -6,7 +6,7 @@ Contact : akheireddine[at]lrde.epita.fr
 
 # BSaLTic
 
- * Git repository:  [link](...)
+ * Git repository:  [link](https://gitlab.lrde.epita.fr/akheireddine/bsaltic.git)
  * Benchmark:       [link](...)
  * Virtual Machine: [link](...) 
 
