@@ -1,21 +1,21 @@
-
 I'm a PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://www.lip6.fr), [MoVe](https://www.lip6.fr/MoVe) team.
 
 
-# BSaLTic
 
- * Git repository:  [link](https://gitlab.lrde.epita.fr/akheireddine/bsaltic.git)
- * Benchmark:       [link](...)
- * Virtual Machine: [link](...) 
+# <span style="color:red"> BSaLTic  (SAT22)</span>
+
+ * Git repository:  [here](https://gitlab.lrde.epita.fr/akheireddine/bsaltic.git)
+ * Benchmark:       [here](...)
+ * Virtual Machine: [here](...) 
 
 
-# Papers
-##  CP21
+## Papers
+###  (CP21)  the 27th International Conference on Principles and Practice of Constraint Programming 
 - Toward better heuristics for Solving SAT-based BMC: [link](https://www.lrde.epita.fr/wiki/Publications/kheireddine.21.cp)
 - Description of the setup: [BMCTool](https://akheireddine.github.io/cp21/cp21.html)
 
 
-# Teaching
+## Teaching
 
  * Programamtion C L1.
  * Théorie des langages rationnels L2.
