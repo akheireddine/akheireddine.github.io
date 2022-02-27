@@ -2,7 +2,7 @@ I'm a PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](http
 
 
 
-# BSaLTic  (SAT22)
+# <span style="color:red"> BSaLTic  (SAT22)</span>
 
  * Git repository:  [here](https://gitlab.lrde.epita.fr/akheireddine/bsaltic.git)
  * Benchmark:       [here](...)
