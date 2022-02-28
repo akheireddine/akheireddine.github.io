@@ -5,9 +5,11 @@ I'm a PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](http
 
 # <span style="color:red">!! BSaLTic  (SAT22) !!</span>
 
- * Git repository:  [here](https://gitlab.lrde.epita.fr/akheireddine/bsaltic.git)
- * Benchmark:       [here](...)
+ * ARTIFACT:  [here]()
+ * Main benchmark:       [here](...)
  * Virtual Machine: [here](...) 
+
+ * Git repository: [git](https://gitlab.lrde.epita.fr/akheireddine/bsaltic)
 
 
 ## Papers
