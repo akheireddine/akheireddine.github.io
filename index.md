@@ -5,7 +5,7 @@ I'm a PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](http
 
 # <span style="color:red">!! BSaLTic  (SAT22) !!</span>
 
- * ARTEFACT:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6323166.svg)](https://doi.org/10.5281/zenodo.6323166)
+ * Artifcat:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6323166.svg)](https://doi.org/10.5281/zenodo.6323166)
  * Main benchmark:       [here](...)
  * Virtual Machine: [here](...) 
 
