@@ -1,4 +1,4 @@
-I'm a PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://www.lip6.fr), [MoVe](https://www.lip6.fr/MoVe) team.
+PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://www.lip6.fr), [MoVe](https://www.lip6.fr/MoVe) team.
 
 **Contact**: anissa.kheireddine[at]lrde.epita.fr
 
@@ -9,15 +9,17 @@ I'm a PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](http
  * [Virtual Machine](https://doi.org/10.5281/zenodo.6323716)&nbsp;&nbsp;&nbsp;: BSaLTic is already installed in the VM.
  * [Main benchmark](https://doi.org/10.5281/zenodo.6303638)&nbsp;&nbsp;: Main benchmark presented in the SAT22 Tool paper.
 
+<br />
+<br />
 
-## Papers
-###  (CP21)  the 27th International Conference on Principles and Practice of Constraint Programming 
-- Toward better heuristics for Solving SAT-based BMC: [link](https://www.lrde.epita.fr/wiki/Publications/kheireddine.21.cp)
-- Description of the setup: [BMCTool](https://akheireddine.github.io/cp21/cp21.html)
+# Papers
+*  (CP21)  the 27th International Conference on Principles and Practice of Constraint Programming 
+   * [Toward better heuristics for Solving SAT-based BMC](https://www.lrde.epita.fr/wiki/Publications/kheireddine.21.cp)
+   * Description of the setup: [BMCTool](https://akheireddine.github.io/cp21/cp21.html)
 
 
 ## Teaching
 
- * Programamtion C L1.
- * Théorie des langages rationnels L2.
+ * Programamtion C L1, Sorbonne Université, France.
+ * Théorie des langages rationnels L2, EPITa,France.
 
