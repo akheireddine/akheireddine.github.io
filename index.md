@@ -5,9 +5,9 @@ I'm a PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](http
 
 # <span style="color:red">!! BSaLTic  (SAT22) !!</span>
 
- * Artifcat       : [Found in zenodo link](https://doi.org/10.5281/zenodo.6323166)
- * Virtual Machine: [Found in zenodo link](https://doi.org/10.5281/zenodo.6323716) 
- * Main benchmark : [Found in zenodo link](...)
+ * [Artifcat](https://doi.org/10.5281/zenodo.6323166)
+ * [Virtual Machine](https://doi.org/10.5281/zenodo.6323716) 
+ * [Main benchmark](...)
 
  * Git repository: [git](https://gitlab.lrde.epita.fr/akheireddine/bsaltic)
 
