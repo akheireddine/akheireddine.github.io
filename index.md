@@ -5,9 +5,9 @@ I'm a PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](http
 
 # <span style="color:red">!! BSaLTic  (SAT22) !!</span>
 
- * [Artifcat](https://doi.org/10.5281/zenodo.6323166) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Source code and instruction for installing and using BSaLTic.
+ * [Artifcat](https://doi.org/10.5281/zenodo.6323166) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Source code and instruction for installing and using BSaLTic.
  * [Virtual Machine](https://doi.org/10.5281/zenodo.6323716) : BSaLTic is already installed in the VM.
- * [Main benchmark](https://doi.org/10.5281/zenodo.6303638) &nbsp;: Main benchmark presented in the SAT22 Tool paper.
+ * [Main benchmark](https://doi.org/10.5281/zenodo.6303638) &nbsp;&nbsp;: Main benchmark presented in the SAT22 Tool paper.
 
 
 ## Papers
