@@ -3,7 +3,7 @@ Figures
 
 
 # Safety properties
-![This is a alt text.]("Safety_conflict_LBD-BMC_std.pdf "Safety - conflict-analysis.")
+![This is a alt text.]("https://akheireddine.github.io/fmcad/Safety_conflict_LBD-BMC_std.pdf "Safety - conflict-analysis.")
 ![This is a alt text.]("Safety_propagate_LBD-BMC_std.pdf "Safety - unit-propagation.")
 
 
