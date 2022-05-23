@@ -3,7 +3,7 @@ PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://ww
 **Contact**: anissa.kheireddine[at]lrde.epita.fr
 
 
-# <span style="color:red">!! BSaLTic  (SAT22) !!</span>
+# <span style="color:red">!! BSaLTic  (FMCAS22) !!</span>
 
  * [Artifcat](https://doi.org/10.5281/zenodo.6323166) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Source code and instruction for installing and using BSaLTic.
  * [Virtual Machine](https://doi.org/10.5281/zenodo.6323716) &nbsp;&nbsp;&nbsp;: BSaLTic is already installed in the VM.
