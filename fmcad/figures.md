@@ -3,11 +3,13 @@ Figures
 
 
 # Safety properties
-![alt text](https://github.com/akheireddine/akheireddine.github.io/fmcad/Safety_conflict_LBD-BMC_std.pdf?raw=true)
-![This is a alt text.]("/Safety_propagate_LBD-BMC_std.pdf "Safety - unit-propagation.")
 
+<object data="Safety_propagate_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Safety_propagate_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Safety_propagate_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
-<embed src="/blog/images/xxx.pdf" type="application/pdf">
 
 <object data="Safety_conflict_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="Safety_conflict_LBD-BMC_std.pdf">
@@ -18,24 +20,80 @@ Figures
 
 
 # Guarantee properties
-![This is a alt text.]("Guarantee_conflict_LBD-BMC_std.pdf "Guarantee - conflict-analysis.")
-![This is a alt text.]("Guarantee_propagate_LBD-BMC_std.pdf "Guarantee - unit-propagation.")
+
+
+<object data="Guarantee_propagate_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Guarantee_propagate_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Safety_propagate_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+<object data="Guarantee_conflict_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Guarantee_conflict_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Guarantee_conflict_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 # Obligation properties
-![This is a alt text.]("Obligation_conflict_LBD-BMC_std.pdf "Obligation - conflict-analysis.")
-![This is a alt text.]("Obligation_propagate_LBD-BMC_std.pdf "Obligation - unit-propagation.")
+
+<object data="Obligation_propagate_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Obligation_propagate_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Obligation_propagate_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+<object data="Obligation_conflict_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Obligation_conflict_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Obligation_conflict_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 # Persistence properties
-![This is a alt text.]("Persistence_conflict_LBD-BMC_std.pdf "Persistence - conflict-analysis.")
-![This is a alt text.]("Persistence_propagate_LBD-BMC_std.pdf "Persistence - unit-propagation.")
 
+<object data="Persistence_propagate_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Persistence_propagate_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Persistence_propagate_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+<object data="Persistence_conflict_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Persistence_conflict_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Persistence_conflict_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 # Recurrence properties
-![This is a alt text.]("Recurrence_conflict_LBD-BMC_std.pdf "Recurrence - conflict-analysis.")
-![This is a alt text.]("Recurrence_propagate_LBD-BMC_std.pdf "Recurrence - unit-propagation.")
+
+<object data="Recurrence_propagate_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Recurrence_propagate_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Recurrence_propagate_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+<object data="Recurrence_conflict_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Recurrence_conflict_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Recurrence_conflict_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 # Reactivity properties
-![This is a alt text.]("Reactivity_conflict_LBD-BMC_std.pdf "Reactivity - conflict-analysis.")
-![This is a alt text.]("Reactivity_propagate_LBD-BMC_std.pdf "Reactivity - unit-propagation.")
+
+
+<object data="Reactivity_propagate_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Reactivity_propagate_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Reactivity_propagate_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+<object data="Reactivity_conflict_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Reactivity_conflict_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Reactivity_conflict_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
