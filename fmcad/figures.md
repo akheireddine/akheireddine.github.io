@@ -6,6 +6,13 @@ Figures
 ![alt text](https://github.com/akheireddine/akheireddine.github.io/fmcad/Safety_conflict_LBD-BMC_std.pdf?raw=true)
 ![This is a alt text.]("/Safety_propagate_LBD-BMC_std.pdf "Safety - unit-propagation.")
 
+<object data="https://github.com/akheireddine/akheireddine.github.io/fmcad/Safety_conflict_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/akheireddine/akheireddine.github.io/fmcad/Safety_conflict_LBD-BMC_std.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/akheireddine/akheireddine.github.io/fmcad/Safety_conflict_LBD-BMC_std.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 
 # Guarantee properties
 ![This is a alt text.]("Guarantee_conflict_LBD-BMC_std.pdf "Guarantee - conflict-analysis.")
