@@ -6,7 +6,7 @@ PhD student at [LRDE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://ww
 # <span style="color:red">!! BSaLTic  (FMCAD22) !!</span>
 
  * [Artifcat](https://doi.org/10.5281/zenodo.6323166) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Source code and instruction for installing and using BSaLTic.
- * [Main benchmark](https://doi.org/10.5281/zenodo.6303638)&nbsp;&nbsp;: Main benchmark presented in the FMCAD22 paper.
+ * [Main benchmark](https://doi.org/10.5281/zenodo.6303638)&nbsp;&nbsp;: Some benchmarks presented in the FMCAD22 paper.
  * [Additional information](https://akheireddine.github.io/fmcad/figures.html): remain figures of the FMCAD22 paper.
 
 <!---
