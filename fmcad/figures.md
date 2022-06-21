@@ -24,7 +24,7 @@ Figures
 
 <object data="Guarantee_propagate_LBD-BMC_std.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="Guarantee_propagate_LBD-BMC_std.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Safety_propagate_LBD-BMC_std.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Guarantee_propagate_LBD-BMC_std.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
