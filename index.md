@@ -1,6 +1,6 @@
 PhD student at [LRE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://www.lip6.fr), [MoVe](https://www.lip6.fr/MoVe) team.
 
-**Contact**: anissa.kheireddine[at]lrde.epita.fr
+**Contact**: anissa.kheireddine[at]lip6.fr
 
 
 <!--- # <span style="color:red">!! BSaLTic  (FMCAD22) !!</span> 
@@ -12,11 +12,17 @@ PhD student at [LRE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://www
 <!---
 * [Virtual Machine](https://doi.org/10.5281/zenodo.6323716) &nbsp;&nbsp;&nbsp;: BSaLTic is already installed in the VM.
 --->
-<br />
-
-
+<br 
 
 [Additional information](https://akheireddine.github.io/fmcad/figures.html): remain figures of the FMCAD22 paper.
+/>
+
+# Tools
+
+* Tune clause databases: [BSaLTic](https://doi.org/10.5281/zenodo.6323716).
+* BMC-based Decomposition: [BMC-D](https://github.com/akheireddine/DECOMP-BMC).
+* Programmatic SAT for BMC: [CDCL\[BMC\]](https://github.com/akheireddine/CDCL-BMC).
+
 
 # Papers & Journals
 *  (CP21)  Kheireddine, Anissa and Renault, Etienne and Baarir, Souheib. Towards Better Heuristics for Solving Bounded Model Checking Problems. 27th International Conference on Principles and Practice of Constraint Programming (CP 2021),[doi](https://drops.dagstuhl.de/opus/volltexte/2021/15298/)
@@ -32,4 +38,5 @@ PhD student at [LRE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://www
  * Complexité des algorithmes CPXA (niveau Licence 3), EPITA.
  * Théorie des langages rationnels THLR (niveau Licence 2), EPITA.
  * Structures de données LU2IN006 (niveau Licence 2), Sorbonne Université.
+ * Programmation concurrente LU3IN001 (niveau Licence 3), Sorbonne Université.
 
