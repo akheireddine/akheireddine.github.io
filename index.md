@@ -11,11 +11,12 @@ PhD student at [LRE](https://www.lrde.epita.fr/wiki/Home) and [LIP6](https://www
 --->
 <!---
 * [Virtual Machine](https://doi.org/10.5281/zenodo.6323716) &nbsp;&nbsp;&nbsp;: BSaLTic is already installed in the VM.
---->
+
 <br 
 
 [Additional information](https://akheireddine.github.io/fmcad/figures.html): remain figures of the FMCAD22 paper.
 />
+--->
 
 # Tools
 
