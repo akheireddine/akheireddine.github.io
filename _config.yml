@@ -1,17 +1,5 @@
 # Remove or comment out:
 # theme: jekyll-theme-cayman
-
-# Add instead:
-remote_theme: cotes2020/jekyll-theme-chirpy
-
-# Required plugins:
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-archives
-  
+theme: jekyll-theme-merlot
 title : Anissa Kheireddine
 description: Contract : anissa.kheireddine[at]lip6.fr
