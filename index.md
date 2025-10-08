@@ -42,7 +42,7 @@ I am affiliated with the [LIP6](https://www.lip6.fr/) laboratory (MoVe team) and
 --->
 
 
-# Publications & scientific communication
+# Publications and Scientific Communication
 * **(ENASE24)** Kheireddine, Anissa and Renault, Etienne, and Baarir, Souheib. Interpolation-based learning for Bounded Model Checking, 19th International conference on Evaluation of Novel Approaches to Software Engineering, ENASE 2024, Angers, France, April 28-29, 2024, [DOI 10.5220/0012703500003687](https://www.scitepress.org/Link.aspx?doi=10.5220/0012703500003687)
 * **(APSEC22)** Kheireddine, Anissa and Renault, Etienne and Baarir, Souheib. Tuning SAT solvers for LTL Model Checking, 29th Asia-Pacific Software Engineering Conference, APSEC 2022, Virtual Event, Japan, December 6-9, 2022, [DOI 10.1109/APSEC57359.2022.00038](https://doi.org/10.1109/APSEC57359.2022.00038)
 * **(CONSTRAINT Journal)** Kheireddine, Anissa and Renault, Etienne and Baarir, Souheib. Towards better heuristics for solving bounded model checking problems. Constraints 28, 45–66 (2023). [DOI 10.1007/s10601-022-09339-8](https://doi.org/10.1007/s10601-022-09339-8) 
