@@ -1,7 +1,7 @@
 
 
 
-**Contact**: anissa.kheireddine@dowsers.finance or anissa.kheireddine[at]lip6.fr
+**Contact**: anissa.kheireddine[at]dowsers.finance or anissa.kheireddine[at]lip6.fr
 
 
 # Description 
