@@ -53,7 +53,7 @@ I am affiliated with the [LIP6](https://www.lip6.fr/) laboratory (MoVe team) and
 * **Journées de GT Vérif**, ENS Paris-Saclay, Université Paris-Saclay. October 2021.
 
 # Developped Tools
-* Tune clause databases: [BSaLTic](https://doi.org/10.5281/zenodo.6323716).
+* Tune clause databases: [BSaLTic](https://github.com/akheireddine/BSaLTic).
 * BMC-based Decomposition: [BMC-D](https://github.com/akheireddine/DECOMP-BMC).
 <!-- * Programmatic SAT for BMC: [CDCL\[BMC\]](https://github.com/akheireddine/CDCL-BMC).-->
 
